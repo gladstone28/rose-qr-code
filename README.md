@@ -69,8 +69,8 @@ I tried to use the REACT Library to complete the assignment but got it messed up
 ## Author
 
 - Website - [Gladstone Rose](https://gladstonerose.tech)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gladstone28)
+- Twitter - [@yourusername](https://www.twitter.com/gladdyus)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
