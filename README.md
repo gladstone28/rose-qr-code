@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gladstone28/rose-qr-code/tree/main)
-- Live Site URL: [Add live site URL here](https://gladstone28.github.io/rose-qr-code/)
+- Solution URL: [Solution URL here](https://github.com/gladstone28/rose-qr-code/tree/main)
+- Live Site URL: [Live site URL here](https://gladstone28.github.io/rose-qr-code/)
 
 ## My process
 
@@ -47,8 +47,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-I got to understand the difference between CSS Grid and CSS Flexbox thoroughly
-------------------------------------------------------------------------------
+####I got to understand the difference between CSS Grid and CSS Flexbox thoroughly
+
 
 CSS Grid and CSS Flexbox are both layout systems in CSS, but they have different use cases and are suited for different kinds of layouts.
 
@@ -61,13 +61,10 @@ In the CSS code  provided, I used Flexbox to center the main content of the web 
 
 I tried to use the REACT Library to complete the assignment but got it messed up after several attempts. I need to really understand React beyong npx create-react-app
 
-
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Example resource 1](https://www.youtube.com/watch?v=Yf5K0XgXrRs) - the use of codepen.io was rein-forced through this video. The tutor also made it easier for me to understand semantic HTML.
+- [Example resource 2](https://www.codecademy.com/courses/learn-sass/projects/refactor-scss-1) - This lesson helped me finally to understand how to refactor CSS to SCSS. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
