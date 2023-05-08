@@ -59,11 +59,12 @@ In the CSS code  provided, I used Flexbox to center the main content of the web 
 
 ### Continued development
 
-I tried to use the REACT Library to complete the assignment but got it messed up after several attempts. I need to really understand React beyong npx create-react-app
+I tried to use the REACT Library to complete the assignment but got it messed up after several attempts. I really need to understand React beyond npx create-react-app  even after following thr tic-tac-toe
+exercise at the REACT site more than once.
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=Yf5K0XgXrRs) - the use of codepen.io was rein-forced through this video. The tutor also made it easier for me to understand semantic HTML.
+- [Example resource 1](https://www.youtube.com/watch?v=Yf5K0XgXrRs) - the use of codepen.io was reinforced through watching this video. The tutor also made it easier for me to understand semantic HTML.
 - [Example resource 2](https://www.codecademy.com/courses/learn-sass/projects/refactor-scss-1) - This lesson helped me finally to understand how to refactor CSS to SCSS. I'd recommend it to anyone still learning this concept.
 
 ## Author
@@ -76,6 +77,6 @@ I tried to use the REACT Library to complete the assignment but got it messed up
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I acknowledge that after looking at the submission from https://github.com/Getro31/Qr_code I got insights as to how to tackle this exeercise.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
