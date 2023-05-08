@@ -47,7 +47,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-####I got to understand the difference between CSS Grid and CSS Flexbox thoroughly
+#### I got to understand the difference between CSS Grid and CSS Flexbox thoroughly
 
 
 CSS Grid and CSS Flexbox are both layout systems in CSS, but they have different use cases and are suited for different kinds of layouts.
