@@ -18,6 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+### Screenshot
+
+My solution
+
+![WEB](./images/image-qr-code.png)
+
 
 ### Links
 
